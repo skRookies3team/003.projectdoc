@@ -19,12 +19,25 @@ project/
 ```
 
 ## 주요 기능
-- 📝 체계적인 회의록 관리
-- 👨‍🏫 멘토링 일지 추적
-- 📚 프로젝트 문서화
-- 🔄 Git 기반 버전 관리
-- 📋 이슈 및 작업 추적
-- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
+- 📝 체계적인 회의록 관리 : https://www.notion.so/29dfef49d8d58090bd05c4410b6ef043?source=copy_link
+
+- 👨‍🏫 멘토링 일지 추적 :
+   - 김현근 : https://hyungeun.tistory.com/
+   - 이가은 : https://gongbuhaela.tistory.com/
+   - 김지은 : https://velog.io/@seolhxx_/posts
+   - 손민정 : https://minjeong7.tistory.com/
+   - 신재석 : https://dane.tistory.com/1
+   - 양승준 : https://blog.naver.com/opentechfinai
+
+- 📚 프로젝트 문서화 :
+
+- 🔄 Git 기반 버전 관리 : 
+
+- 📋 이슈 및 작업 추적 :
+슬랙 : https://join.slack.com/t/skshieldus3/shared_invite/zt-3h2up6byu-mgT62G8T15euFqrkD9vdsg
+
+- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리 - 지라 : https://skshieldusmsa.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiNTQ3NDk1YjM5NjMzNDIxNzk4MWMwMWFkNjExY2NkYWYiLCJwIjoiaiJ9
+- 데일리 스크럼 일지 : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=1610227380#gid=1610227380
 
 ## 시작하기
 
