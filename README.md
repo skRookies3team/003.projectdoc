@@ -20,6 +20,7 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리 : https://www.notion.so/29dfef49d8d58090bd05c4410b6ef043?source=copy_link
+- 주제 및 브레인 스토밍 관리 :https://www.notion.so/3-MSA-299fef49d8d580ada861dffc558c4b17?p=29dfef49d8d58051bdcdcb951c8deb32&pm=s
 
 - 👨‍🏫 멘토링 일지 추적 :
    - 김현근 : https://hyungeun.tistory.com/
@@ -114,3 +115,4 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
