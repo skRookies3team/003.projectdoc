@@ -20,7 +20,7 @@ project/
 
 ## 주요 기능
 - 📝 체계적인 회의록 관리 : https://www.notion.so/29dfef49d8d58090bd05c4410b6ef043?source=copy_link
-- 주제 및 브레인 스토밍 관리 :https://www.notion.so/3-MSA-299fef49d8d580ada861dffc558c4b17?p=29dfef49d8d58051bdcdcb951c8deb32&pm=s
+- 주제 및 브레인 스토밍 관리 :https://www.notion.so/29dfef49d8d58051bdcdcb951c8deb32?source=copy_link
 
 - 👨‍🏫 멘토링 일지 추적 :
    - 김현근 : https://hyungeun.tistory.com/
