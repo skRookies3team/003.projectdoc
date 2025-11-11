@@ -22,6 +22,8 @@ project/
 - 📝 체계적인 회의록 관리 : https://www.notion.so/29dfef49d8d58090bd05c4410b6ef043?source=copy_link
 - 주제 및 브레인 스토밍 관리 :https://www.notion.so/29dfef49d8d58051bdcdcb951c8deb32?source=copy_link
 
+- 요구사항 명세서 : https://docs.google.com/spreadsheets/d/1W0uLpbwI7hIR0wBTe2VP-Tyg_tk7HHSCGckUxBPWUBM/edit?usp=sharing
+  
 - 👨‍🏫 멘토링 일지 추적 :
    - 김현근 : https://hyungeun.tistory.com/
    - 이가은 : https://gongbuhaela.tistory.com/
@@ -39,6 +41,7 @@ project/
 
 - 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리 - 지라 : https://skshieldusmsa.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiNTQ3NDk1YjM5NjMzNDIxNzk4MWMwMWFkNjExY2NkYWYiLCJwIjoiaiJ9
 - 데일리 스크럼 일지 : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=1610227380#gid=1610227380
+
 
 ## 시작하기
 
@@ -115,4 +118,5 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
