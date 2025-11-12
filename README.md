@@ -39,7 +39,7 @@ project/
 - 📋 이슈 및 작업 추적 :
 슬랙 : https://join.slack.com/t/skshieldus3/shared_invite/zt-3h2up6byu-mgT62G8T15euFqrkD9vdsg
 
-- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리 - 지라 : https://skshieldusmsa.atlassian.net/jira/software/projects/SCRUM/summary?atlOrigin=eyJpIjoiNTQ3NDk1YjM5NjMzNDIxNzk4MWMwMWFkNjExY2NkYWYiLCJwIjoiaiJ9
+- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리 - 지라 : https://skshieldusmsa.atlassian.net/jira/software/projects/PLSM/boards/68
 - 데일리 스크럼 일지 : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=1610227380#gid=1610227380
 
 
@@ -118,5 +118,6 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
