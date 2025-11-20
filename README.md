@@ -26,7 +26,7 @@ project/
 
 - 📗 수행계획서 : https://docs.google.com/document/d/1h1QAWMxbtnikt5wkuxUpAlL6dfibHS54/edit
 
-- 📒 ERD :
+- 📒 ERD : https://www.mermaidchart.com/app/projects/a25ec708-eda6-4d5f-a924-52f807a0dc98/diagrams/974a76db-aa53-4b68-9a28-4403f7b9eb6e/version/v0.1/edit
   
 - 📘 WBS :
 
@@ -126,6 +126,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
