@@ -22,12 +22,37 @@ project/
 ```
 
 ## 주요 기능
-- 📝 체계적인 회의록 관리
-- 👨‍🏫 멘토링 일지 추적
-- 📚 프로젝트 문서화
-- 🔄 Git 기반 버전 관리
-- 📋 이슈 및 작업 추적
-- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리
+- 📝 체계적인 회의록 관리 : https://www.notion.so/29dfef49d8d58090bd05c4410b6ef043?source=copy_link
+- 주제 및 브레인 스토밍 관리 :https://www.notion.so/29dfef49d8d58051bdcdcb951c8deb32?source=copy_link
+
+- 📕 요구사항 명세서 : [https://docs.google.com/spreadsheets/d/1W0uLpbwI7hIR0wBTe2VP-Tyg_tk7HHSCGckUxBPWUBM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GaIksTzPZeOsfqgusiRBERouxqPlMjxi/edit?gid=1400720422#gid=1400720422)
+
+- 📗 수행계획서 : https://docs.google.com/document/d/1h1QAWMxbtnikt5wkuxUpAlL6dfibHS54/edit
+
+- 📒 ERD : https://www.mermaidchart.com/app/projects/a25ec708-eda6-4d5f-a924-52f807a0dc98/diagrams/974a76db-aa53-4b68-9a28-4403f7b9eb6e/version/v0.1/edit
+  
+- 📘 WBS : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=485940834#gid=485940834
+
+- 금일 스크럼 회의 링크 및 질문: https://www.notion.so/2b1fef49d8d5804c81e5c5bc69b1e2cb?source=copy_link
+
+- 👨‍🏫 멘토링 일지 추적 :
+   - 김현근 : https://hyungeun.tistory.com/
+   - 이가은 : https://gongbuhaela.tistory.com/
+   - 김지은 : https://velog.io/@seolhxx_/posts
+   - 손민정 : https://minjeong7.tistory.com/
+   - 신재석 : https://dane.tistory.com/1
+   - 양승준 : https://blog.naver.com/opentechfinai
+
+- 📚 프로젝트 문서화 :
+
+- 🔄 Git 기반 버전 관리 : 
+
+- 📋 이슈 및 작업 추적 :
+슬랙 : https://join.slack.com/t/skshieldus3/shared_invite/zt-3h2up6byu-mgT62G8T15euFqrkD9vdsg
+
+- 📊 칸반 보드 (GitHub Projects)를 통한 작업 관리 - 지라 : https://skshieldusmsa.atlassian.net/jira/software/projects/PLSM/boards/68
+- 데일리 스크럼 일지 : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=1610227380#gid=1610227380
+
 
 ## 시작하기
 
@@ -104,3 +129,13 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
+
+
+
+
+
+
+
+
+
