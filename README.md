@@ -34,7 +34,7 @@ project/
 - 📘 WBS : https://docs.google.com/spreadsheets/d/1KyEW57AjP1GrWekNAbXinZ-HJKZE2BT6qFJQHgowJ9A/edit?gid=485940834#gid=485940834
 
 - 금일 스크럼 회의 링크 및 질문: [https://www.notion.so/2b1fef49d8d5804c81e5c5bc69b1e2cb?source=copy_link](https://www.notion.so/2b5fef49d8d58039a9a7fe427ee48b02?source=copy_link)
-
+- ADR 문서 체계 목록: https://www.notion.so/ADR-2bdfef49d8d5807b8eb5d07c16317683?source=copy_link
 - 👨‍🏫 멘토링 일지 추적 :
    - 김현근 : https://hyungeun.tistory.com/
    - 이가은 : https://gongbuhaela.tistory.com/
@@ -129,6 +129,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
