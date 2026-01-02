@@ -41,7 +41,7 @@ project/
    - 김지은 : https://velog.io/@seolhxx_/posts
    - 손민정 : https://minjeong7.tistory.com/
    - 신재석 : https://dane.tistory.com/1
-   - 양승준 : https://blog.naver.com/opentechfinai
+   - 양승준 : https://think40993.tistory.com/
 
 - 📚 프로젝트 문서화 :
 
@@ -129,6 +129,7 @@ PR 제목 또는 본문에 다음 키워드를 사용하면 PR 머지 시 자동
 
 ## 연락처
 프로젝트 관련 문의사항이 있으시면 이슈를 생성해 주세요.
+
 
 
 
